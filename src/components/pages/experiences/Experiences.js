@@ -14,7 +14,7 @@ export default function Experiences() {
                                 <strong>BUILDER GROUP</strong>
                             </p>
                             <p className="teal year_exp white-text">
-                                Nov<strong>2021</strong> - Mar <strong>2022</strong>
+                                Dic<strong>2020</strong> - Jun <strong>2022</strong>
                             </p>
                         </div>  
                         <div className="col xl8 l8 m6 s12">
